@@ -16,4 +16,3 @@ Below are the types of issues that will fall under this filing method:
 * Submission errors
 
 For any other billing or site-related issues, please reach out to us via our [Help Center](https://support.leetcode.com/hc/en-us).
-test one
